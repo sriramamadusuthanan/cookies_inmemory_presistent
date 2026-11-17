@@ -1,0 +1,14 @@
+# Compiled output
+*.class
+bin/
+build/
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Misc
+.DS_Store
+*.log
